@@ -1,4 +1,4 @@
-# machine-laearning-model
+# machine-learning-model
 
 Predicting datasets
   
